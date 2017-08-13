@@ -1,11 +1,10 @@
 # Remap Application Key
 
-This Automator app turns your PC keyboard's right-hand Application key
-into a right-hand Command key.
+This Automator app turns your PC keyboard's Application key into a
+right-hand Command key.
 
 It's intended for use in your login items list, so that it runs when
-you log in. To try it out, just double click. The effect persists
-until you reboot.
+you log in. Once run, the effect persists until you reboot.
 
 Requires Mac OS X Sierra.
 
@@ -27,4 +26,5 @@ that I keep running into.
 
 It uses
 [hidutil](https://developer.apple.com/library/content/technotes/tn2450/_index.html)
-to remap key 0x65 to key 0xe7.
+to remap key 0x65 (the Application key) to key 0xe7 (the right-hand
+GUI key).
