@@ -6,7 +6,7 @@ right-hand Command key.
 It's intended for use in your login items list, so that it runs when
 you log in. Once run, the effect persists until you reboot.
 
-Requires Mac OS X Sierra.
+Requires Mac OS X Sierra or later.
 
 # Why
 
